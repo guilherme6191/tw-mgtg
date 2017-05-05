@@ -1,0 +1,15 @@
+{
+  "name": "tw-merchants-guide-to-galaxy",
+  "version": "1.0.0",
+  "description": "TW chanllenge - Merchants Guide to Galaxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/main.spec",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^3.2.0"
+  }
+}
